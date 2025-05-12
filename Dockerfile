@@ -1,4 +1,4 @@
-FROM polar0721/cpmlx:heroku
+FROM polar0721/cpmlx:railway
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
